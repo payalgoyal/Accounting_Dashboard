@@ -1,0 +1,11 @@
+date,invoice_no,party,amount,gst,mode,source,ledger_id,name,type
+2024-01-05,INV001,ABC Corp,10000,1800,UPI,Tally,L001,ABC Corp,Customer
+2024-01-07,INV002,XYZ Ltd,25000,4500,Cash,Tally,L002,XYZ Ltd,Customer
+2024-01-10,INV003,SmartTech,18000,3240,Card,Tally,L003,SmartTech,Customer
+2024-01-15,INV004,ABC Corp,15000,2700,UPI,Tally,L001,ABC Corp,Customer
+2024-01-18,INV005,Fine Interiors,30000,5400,NEFT,Tally,L004,Fine Interiors,Customer
+2024-01-21,INV006,XYZ Ltd,10000,1800,Cash,Tally,L002,XYZ Ltd,Customer
+2024-01-25,INV007,Quick Retail,22000,3960,UPI,Tally,L005,Quick Retail,Customer
+2024-01-28,INV008,SmartTech,13000,2340,Card,Tally,L003,SmartTech,Customer
+2024-02-01,INV009,Fine Interiors,17000,3060,Cash,Tally,L004,Fine Interiors,Customer
+2024-02-03,INV010,ABC Corp,14000,2520,NEFT,Tally,L001,ABC Corp,Customer

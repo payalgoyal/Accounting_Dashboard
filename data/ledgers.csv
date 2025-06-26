@@ -1,0 +1,11 @@
+ledger_id,name,type
+L001,ABC Corp,Customer
+L002,XYZ Ltd,Customer
+L003,SmartTech,Customer
+L004,Fine Interiors,Customer
+L005,Quick Retail,Customer
+L006,StationeryMart,Supplier
+L007,LogiTech Supply,Supplier
+L008,IT Solutions,Supplier
+L009,Furniture Co.,Supplier
+L010,PowerTech,Supplier

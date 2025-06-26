@@ -1,0 +1,16 @@
+date,txn_id,description,amount,type,mode
+2024-01-05,TX001,ABC Corp payment,11800,credit,UPI
+2024-01-07,TX002,XYZ Ltd payment,29500,credit,Cash
+2024-01-08,TX003,StationeryMart purchase,5900,debit,UPI
+2024-01-10,TX004,SmartTech payment,21240,credit,Card
+2024-01-12,TX005,IT Solutions purchase,10620,debit,Card
+2024-01-15,TX006,ABC Corp payment,17700,credit,UPI
+2024-01-17,TX007,StationeryMart purchase,8260,debit,UPI
+2024-01-18,TX008,Fine Interiors payment,35400,credit,NEFT
+2024-01-20,TX009,Furniture Co. purchase,17700,debit,NEFT
+2024-01-21,TX010,XYZ Ltd payment,11800,credit,Cash
+2024-01-22,TX011,PowerTech purchase,9440,debit,UPI
+2024-01-25,TX012,Quick Retail payment,25960,credit,UPI
+2024-01-27,TX013,IT Solutions purchase,11210,debit,Cash
+2024-01-28,TX014,SmartTech payment,15340,credit,Card
+2024-02-01,TX015,Fine Interiors payment,20060,credit,Cash

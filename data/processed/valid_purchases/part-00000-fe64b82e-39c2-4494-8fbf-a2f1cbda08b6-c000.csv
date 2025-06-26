@@ -1,0 +1,9 @@
+date,bill_no,supplier,amount,gst,mode,source,ledger_id,name,type
+2024-01-03,PUR001,StationeryMart,5000,900,UPI,Tally,L006,StationeryMart,Supplier
+2024-01-08,PUR002,LogiTech Supply,12000,2160,Cash,Tally,L007,LogiTech Supply,Supplier
+2024-01-12,PUR003,IT Solutions,9000,1620,Card,Tally,L008,IT Solutions,Supplier
+2024-01-17,PUR004,StationeryMart,7000,1260,UPI,Tally,L006,StationeryMart,Supplier
+2024-01-20,PUR005,Furniture Co.,15000,2700,NEFT,Tally,L009,Furniture Co.,Supplier
+2024-01-23,PUR006,PowerTech,8000,1440,UPI,Tally,L010,PowerTech,Supplier
+2024-01-27,PUR007,IT Solutions,9500,1710,Cash,Tally,L008,IT Solutions,Supplier
+2024-02-01,PUR008,LogiTech Supply,11000,1980,Card,Tally,L007,LogiTech Supply,Supplier
